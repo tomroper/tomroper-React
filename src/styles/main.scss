@@ -1,0 +1,52 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background: #4C4C4C;
+}
+
+#wrapper {
+  width: 80%;
+  padding: 20px;
+  border: 1px solid #e1e1e1;
+  margin: 0 auto;
+  background: #53D4F8;
+}
+
+h1 {
+font-family: 'Avenir', sans-serif;
+font-size: 2rem;
+color: #000;
+font-weight: bold;
+}
+
+.page_title{
+  text-align: center;
+  color: #982D31;
+  font-size: 2.3rem;
+}
+
+.post_title {
+  margin-top: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Avenir';
+  font-size: 1.4rem;
+  margin-top: 30px;
+  color: #000;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Avenir';
+  font-size: 1.2rem;
+  margin-top: 10px;
+  color: #000;
+}
+
+p {
+font-family: 'Avenir';
+font-size: 1rem;
+color: #000;
+}
