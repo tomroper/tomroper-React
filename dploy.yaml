@@ -6,5 +6,4 @@ live:
     pass: zi6eSS35n1
     check: true
     path:
-        local: release/
         remote: public_html/
