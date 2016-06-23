@@ -5,5 +5,6 @@ live:
     user: tomroper
     pass: zi6eSS35n1
     check: true
+    exclude: ["node_modules", "release", "src", ".git", "package.json", "webpack.config.js", "dploy.yaml"]
     path:
         remote: public_html/
