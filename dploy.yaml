@@ -1,0 +1,10 @@
+live:
+    scheme: ftp
+    host: tor-server6.websitehostserver.net
+    port: 21
+    user: tomroper
+    pass: zi6eSS35n1
+    check: true
+    path:
+        local: release/
+        remote: public_html/
