@@ -1,8 +1,8 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { Router, Route, browserHistory, Redirect} from 'react-router';
-
 import Home from './components/home.jsx';
+import Header from './components/header.jsx';
 
 require('./styles/reset.scss');
 require('./styles/main.scss');
